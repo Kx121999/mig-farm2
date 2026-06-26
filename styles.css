@@ -561,6 +561,10 @@ body.lang-en .site-footer a {
   gap: 8px;
 }
 
+.buy-row .product-action {
+  margin-top: 0;
+}
+
 .qty-button {
   background: var(--surface-solid);
   color: var(--ink);
